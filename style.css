@@ -1,0 +1,12 @@
+#one{
+    background-color:red ;
+}
+#two{
+    background-color: blue;
+}
+.cards{
+    display:flex
+    flex-wrap:wrap
+    align items
+}
+
